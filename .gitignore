@@ -1,0 +1,22 @@
+venv/
+__pycache__/
+*.pyc
+.streamlit/secrets.toml
+.env
+
+# Claude / 개인 작업 파일
+.claude/
+
+# 발표자료 제작용 임시 파일
+ppt_text.txt
+C:UsersDKDownloadsppt_text.txt
+make_ppt.py
+make_ppt_1314.py
+make_final_ppt.py
+color_preview.html
+
+# 스키마 내보내기 임시 파일
+db/schema_new.sql
+
+# 발표자료 임시 파일 (이름에 특수문자 포함)
+C*ppt_text.txt
